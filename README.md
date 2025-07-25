@@ -19,8 +19,7 @@ A modern, responsive and full-featured todo list web application built with **Fl
 
 ## 📂 Project Structure
 
-├── app.py # Main Flask application
--
+├── app.py # Main Flask application//
 ├── database.py # MongoDB operations encapsulated in a class
 ├── requirements.txt # Dependencies
 ├── README.md # Project documentation
